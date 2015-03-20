@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Create your about me page in seconds, with different themes.
+A great plugin for wordpress Admins to search and manage posts, pages by type and filter.
 
 == Description ==
 Very simple plugin to manage posts, pages or even products by just typing and filtering. Also edit, delete and preview options. 
